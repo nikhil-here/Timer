@@ -11,5 +11,8 @@ with Dark Theme
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/54818560/82147112-2bae7e80-986b-11ea-8364-c91532c6ffbc.gif)
 # handling Orientation
 ![1](https://user-images.githubusercontent.com/54818560/82147232-f8b8ba80-986b-11ea-8afb-ae1b53971203.PNG)
+# Notifications
+![notification](https://user-images.githubusercontent.com/54818560/82148038-88ac3380-986f-11ea-8bfa-949b38c4d8a5.png)
+Showing Notification when activity gets pause and clock is running in background
 # handling Screen Navigation Buttons
 hiding Status bar and bottom navigation buttons. 
