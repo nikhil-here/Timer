@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cnb_unselectedColor="@color/colorPrimary"
+    >
+    <item
+        android:id="@+id/timer"
+        android:title="Timer"
+        android:icon="@drawable/ic_timer"
+        app:cnb_backgroundColor = "@color/colorPrimary"
+        app:cnb_iconColor= "@color/colorAccent"
+        app:cnb_textColor = "#FFF"/>
+
+    <item
+        android:id="@+id/stopwatch"
+        android:title="Stopwatch"
+        android:enabled="true"
+        android:icon="@drawable/ic_stopwatch"
+        app:cnb_backgroundColor = "@color/colorPrimary"
+        app:cnb_iconColor= "@color/colorAccent"
+        app:cnb_textColor = "#FFF"/>
+</menu>

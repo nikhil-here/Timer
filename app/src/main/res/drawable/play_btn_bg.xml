@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:opacity="transparent">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/colorPrimary"/>
+        </shape>
+    </item>
+    <item
+        android:drawable="@drawable/ic_play_button"
+        android:bottom="20dp"
+        android:left="25dp"
+        android:right="20dp"
+        android:top="20dp"/>
+
+</layer-list>
