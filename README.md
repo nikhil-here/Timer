@@ -9,9 +9,9 @@ with Dark Theme
 ![2](https://user-images.githubusercontent.com/54818560/82147287-5baa5180-986c-11ea-804d-2bcdcd50bcbc.PNG)
 # Fragments and View Animation
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/54818560/82147112-2bae7e80-986b-11ea-8364-c91532c6ffbc.gif)
-# handling Orientation
+# Handling Orientation
 ![1](https://user-images.githubusercontent.com/54818560/82147232-f8b8ba80-986b-11ea-8afb-ae1b53971203.PNG)
 # Notifications
 Showing Notification when activity gets pause and clock is running in background
-# handling Screen Navigation Buttons
+# Handling Screen Navigation Buttons
 hiding Status bar and bottom navigation buttons. 
