@@ -7,6 +7,7 @@ with Dark Theme
 ![circular Seekbar](https://user-images.githubusercontent.com/54818560/82146728-eb9acc00-9869-11ea-8ef6-ed65fbd055d8.PNG)
 # Fragments and View Animation
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/54818560/82147112-2bae7e80-986b-11ea-8364-c91532c6ffbc.gif)
-4. vibrations on key press
-5. handling Orientation
+# vibrations on key press
+# handling Orientation
+![1](https://user-images.githubusercontent.com/54818560/82147232-f8b8ba80-986b-11ea-8afb-ae1b53971203.PNG)
 6. handling Screen Navigation Buttons
