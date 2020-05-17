@@ -11,4 +11,5 @@ with Dark Theme
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/54818560/82147112-2bae7e80-986b-11ea-8364-c91532c6ffbc.gif)
 # handling Orientation
 ![1](https://user-images.githubusercontent.com/54818560/82147232-f8b8ba80-986b-11ea-8afb-ae1b53971203.PNG)
-6. handling Screen Navigation Buttons
+# handling Screen Navigation Buttons
+hiding Status bar and bottom navigation buttons. 
