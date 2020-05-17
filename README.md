@@ -6,4 +6,4 @@ with Dark Theme
 3. Fragments and View Animation
 4. vibrations on key press
 5. handling Orientation
-6. handling navigation buttons on screen
+6. handling Screen Navigation Buttons
