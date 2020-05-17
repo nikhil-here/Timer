@@ -1,4 +1,5 @@
 # Timer and Stopwatch
+![poster-01](https://user-images.githubusercontent.com/54818560/82146579-ee48f180-9868-11ea-9c90-f656a5f81118.png)
 with Dark Theme
 # Custom Navigation Bar
 ![navigation_bar](https://user-images.githubusercontent.com/54818560/82146623-3ff17c00-9869-11ea-84c2-26201f0297ec.png)
